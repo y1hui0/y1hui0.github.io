@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://y1hui0.github.io</id>
     <title>易会灵   &apos;s   Blog</title>
-    <updated>2021-09-11T05:31:38.874Z</updated>
+    <updated>2021-09-11T05:32:33.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://y1hui0.github.io"/>
+    <link rel="self" href="https://y1hui0.github.io/atom.xml"/>
     <subtitle>严于律己，宽以待人</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://y1hui0.github.io/images/avatar.png</logo>
+    <icon>https://y1hui0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 易会灵   &apos;s   Blog</rights>
     <entry>
         <title type="html"><![CDATA[有朋]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://y1hui0.github.io/post/hello-gridea/</id>
+        <link href="https://y1hui0.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>👏  欢迎我的朋友<br>
