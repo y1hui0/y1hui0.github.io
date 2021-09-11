@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://y1hui0.github.io</id>
-    <title>易会灵</title>
-    <updated>2021-09-11T04:51:34.561Z</updated>
+    <title>易会灵‘s Blog</title>
+    <updated>2021-09-11T05:24:30.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://y1hui0.github.io"/>
     <link rel="self" href="https://y1hui0.github.io/atom.xml"/>
     <subtitle>严于律己，宽以待人</subtitle>
     <logo>https://y1hui0.github.io/images/avatar.png</logo>
     <icon>https://y1hui0.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 易会灵</rights>
+    <rights>All rights reserved 2021, 易会灵‘s Blog</rights>
     <entry>
         <title type="html"><![CDATA[有朋]]></title>
         <id>https://y1hui0.github.io/post/hello-gridea/</id>
